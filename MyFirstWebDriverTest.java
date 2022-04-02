@@ -16,7 +16,7 @@ public class MyFirstWebDriverTest {
 		
 		
 		driver.get("www.google.com");
-
+//load test
 	}
 
 }
