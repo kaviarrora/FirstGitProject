@@ -1,9 +1,12 @@
 package scripts;
 
+//packages to import
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 //mark these words
+
+
 public class MyFirstWebDriverTest {
 
 	public static void main(String[] args) {
