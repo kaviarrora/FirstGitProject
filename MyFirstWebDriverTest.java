@@ -4,8 +4,8 @@ package scripts;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
+//mark these words
 
-// some changes done for testing
 
 public class MyFirstWebDriverTest {
 
@@ -20,7 +20,7 @@ public class MyFirstWebDriverTest {
 		
 		
 		driver.get("www.google.com");
-
+//load test
 	}
 
 }
